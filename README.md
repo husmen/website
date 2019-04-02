@@ -1,2 +1,2 @@
-# husmen.github.io
+# husmen.xyz
 Coming soon
