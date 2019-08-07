@@ -1,2 +1,1 @@
-# husmen.xyz
-Coming soon
+# the website is now at https://husmen.xyz
