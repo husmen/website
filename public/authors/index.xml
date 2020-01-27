@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | HUSMEN</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Wed, 22 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am Houssem Menhour, currently studying Computer Engineering at Kocaeli University with a focus on Data Science and Machine Learning. I program mostly in C++ and Python, but recently started picking interest in Go and Scala as well.&lt;/p&gt;
+&lt;p&gt;This is a space where I share some random thoughts, and write about interesting projects and topics in my field.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ahmet Sayar</title>
+      <link>/authors/ahmet-sayar/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/ahmet-sayar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Muhammed Şara</title>
+      <link>/authors/muhammed-sara/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/muhammed-sara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Muhammet Furkan Tufan</title>
+      <link>/authors/muhammet-furkan-tufan/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/muhammet-furkan-tufan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Münir Karslı</title>
+      <link>/authors/munir-karsl%C4%B1/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/munir-karsl%C4%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Süleyman Eken</title>
+      <link>/authors/suleyman-eken/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/suleyman-eken/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yusuf Satılmış</title>
+      <link>/authors/yusuf-sat%C4%B1lm%C4%B1s/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/yusuf-sat%C4%B1lm%C4%B1s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kübra Köksal</title>
+      <link>/authors/kubra-koksal/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/kubra-koksal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
