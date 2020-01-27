@@ -1,0 +1,4 @@
+baseURL = "http://husmen.xyz/"
+languageCode = "en-us"
+title = "HUSMEN"
+theme = "academic"
