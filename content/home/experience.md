@@ -26,8 +26,8 @@ date_format = "Jan 2006"
   date_end = ""
   description = """As an intern at the Image Processing Laboratory, I helped with and contributed to ongoing research on the following subjects:
   
-  * AnalysingComputerVision for Autonomous Driving Vehicles.
-  * ImageClassification and Analysis.
+  * Computer Vision for Autonomous Driving Vehicles.
+  * Image Classification and Analysis.
   """
 
 # [[experience]]
