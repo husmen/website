@@ -1,4 +1,4 @@
-baseURL = "http://husmen.xyz/"
+baseURL = "https://husmen.xyz/"
 languageCode = "en-us"
 title = "HUSMEN"
 theme = "academic"

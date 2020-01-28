@@ -15,7 +15,7 @@ role: Computer Engineering Student
 # Organizations/Affiliations
 organizations:
 - name: Kocaeli University
-  url: ""
+  url: http://kocaeli.edu.tr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Software Engineer with a passion for AI.
@@ -63,11 +63,13 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 I am Houssem Menhour, currently studying Computer Engineering at Kocaeli University with a focus on Data Science and Machine Learning. I program mostly in C++ and Python, but recently started picking interest in Go and Scala as well.
 
 This is a space where I share some random thoughts, and write about interesting projects and topics in my field.
+
+More information [here](/about).

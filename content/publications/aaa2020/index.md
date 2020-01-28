@@ -1,11 +1,11 @@
 ---
-title: "DoCA: A Content-Based Automatic Classification System Over Digital Documents"
+title: "A parallel implementation of Artificial Algae Algorithm for numerical optimization"
 authors:
 - 'Süleyman Eken'
 - admin
-- 'Kübra Köksal'
-date: "2019-07-22T00:00:00Z"
-doi: "10.1109/ACCESS.2019.2930339"
+- 'Ramazan Nejdet Sarıkaya'
+date: "2020-02-20T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-07-22T00:00:00Z"
@@ -17,33 +17,30 @@ publishDate: "2019-07-22T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Access*
+publication: In *-*
 #publication_short: In *STC*
 
-abstract: " Regardless of industry, the overload of information facing most organizations today is a drain on both individuals and the enterprise itself. The increasing volume of this information, which is stored in different electronic formats, requires new sophisticated systems to analyse and classify them. In this paper, we attempt to implement a framework for Document Classification and Analysis (DoCA) that can simplify and automate such tasks for different file types, namely: office documents (text, spreadsheets, and presentations), scanned documents (images and PDFs), multimedia files (video and audio). Each file type requires different methods for pre-processing, analysis, and classification. The efficiency and feasibility of the DoCA are examined on HAVELSAN dataset and accuracy of different tasks shows that the DoCA is a promising tool for document analysis and classification. "
+abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: In this paper, we attempt to implement a framework for Document Classification and Analysis (DoCA) that can simplify and automate such tasks for different file types.
+summary: A parallel implementation of Artificial Algae Algorithm for numerical optimization.
 
 tags:
-- NLP
-- OCR
-- Word Embedding
-- Document Clustering
-- Audio Analysis
-- Video Analysis
+- CUDA
+- Optimization
+- Parallel Computing
 featured: true
 
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8768370
-url_code: https://github.com/husmen/DoCA_GUI
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: https://ieeexplore.ieee.org/abstract/document/8768370
+url_source: ''
 url_video: ''
 
 # Featured image
@@ -59,7 +56,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- doca-gui
+- aaa
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

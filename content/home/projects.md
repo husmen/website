@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 50  # Order that this section will appear.
 
 title = "Projects"
 subtitle = ""
@@ -11,9 +11,6 @@ subtitle = ""
 [content]
   # Page type to display. E.g. project.
   page_type = "portfolio"
-
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 5
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -34,23 +31,23 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "C++"
-    tag = "C++"
+    tag = "Cpp"
 
   [[content.filter_button]]
     name = "Qt"
     tag = "Qt"
+
+  [[content.filter_button]]
+    name = "Cuda"
+    tag = "Cuda"
   
   [[content.filter_button]]
-    name = "Machine Learning"
-    tag = "Machine Leaning"
+    name = "NLP"
+    tag = "NLP"
 
   [[content.filter_button]]
-    name = "Data Analysis"
-    tag = "Data Analysis"
-
-  [[content.filter_button]]
-    name = "Other"
-    tag = ""
+    name = "ML"
+    tag = "ML"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -64,7 +61,7 @@ subtitle = ""
   view = 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+  flip_alt_rows = true
 
 [design.background]
   # Apply a background color, gradient, or image.
