@@ -7,7 +7,7 @@ tags:
 - Cuda
 - Full-text Search
 - Backend
-date: "2018-08-27T00:00:00Z"
+date: "2020-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

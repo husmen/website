@@ -1,9 +1,11 @@
 ---
-title: Scope Based Timer
-summary: Scope Based Timer in C++.
+title: Naive Bayes Classifier
+summary: Naive Bayes Classifier for Turkish Text.
 tags:
-- Cpp
-date: "2019-07-01T00:00:00Z"
+- Python
+- NLP
+- Machine Learning
+date: "2018-02-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -12,7 +14,7 @@ image:
   caption: ''
   focal_point: Smart
 
-url_code: https://github.com/husmen/ScopeBasedTimer
+url_code: https://github.com/husmen/NaiveBayesClassifier
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -25,4 +27,4 @@ url_video: ""
 # slides: example
 ---
 
-C++ implementation of scope based timer, it is offered as a class to be easily imported to any existing project.
+Naive Bayes Classifier for Turkish Text.

@@ -6,7 +6,7 @@ tags:
 - GDI+
 - Visual Studio
 - Image Processing
-date: "2018-02-27T00:00:00Z"
+date: "2018-02-02T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

@@ -15,6 +15,9 @@ image:
   caption: ''
   focal_point: Smart
 
+links:
+- name: AçıkHack
+  url: https://www.acikhack.com/
 url_code: https://github.com/fourplusone41/TezHaber
 url_pdf: ""
 url_slides: ""
@@ -28,4 +31,4 @@ url_video: ""
 # slides: example
 ---
 
-Centroid-based Text Summarization through Compositionality of Word Embeddings. Adopted to the turkish language, and demonstrated with news aggregation and summarization as a use case example.
+Centroid-based Text Summarization through Compositionality of Word Embeddings. Adopted to the turkish language, and demonstrated with news aggregation and summarization as a use case example. This project won 2nd place at #AçıkHack NLP Hackathon 2019.

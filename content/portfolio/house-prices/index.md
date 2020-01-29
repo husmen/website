@@ -1,13 +1,14 @@
 ---
-title: Video Streaming
-summary: Distributed Video Streaming with Apache Kafka and Python.
+title: House Prices Prediction
+summary: House Prices Prediction with XGBoost (Kaggle).
 tags:
 - Python
-- Flask
-- Apache Kafka
-- Stream Processing
-- Backend
-date: "2018-12-27T00:00:00Z"
+- XGBoost
+- Scikit-Learn
+- Regression
+- Machine Learning
+- Kaggle
+date: "2019-06-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,7 +17,11 @@ image:
   caption: ''
   focal_point: Smart
 
-url_code: https://github.com/husmen/KafkaStreamingDemo
+links:
+- name: Kaggle
+  url: https://www.kaggle.com/husmen/xgboost-parameter-tuning-v2
+
+url_code: https://github.com/husmen/Kaggle-Kernels/
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -29,4 +34,4 @@ url_video: ""
 # slides: example
 ---
 
-Distributed Video Streaming with Apache Kafka and Python.
+House Prices Prediction with XGBoost and LightGBM for regression and Scikit-Learn grid search for hyperparameters optimization.

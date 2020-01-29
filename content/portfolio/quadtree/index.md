@@ -6,7 +6,7 @@ tags:
 - Qt
 - QuadTree
 - Collision Detection
-date: "2018-08-27T00:00:00Z"
+date: "2018-04-26T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

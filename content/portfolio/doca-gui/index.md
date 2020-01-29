@@ -25,7 +25,7 @@ image:
 links:
 #- icon: link
 #  icon_pack: fab
-- name: Competition Info
+- name: Havelsan PARDUS DoSA
   url: https://inovasyon.havelsan.com.tr/havelsan/#/competition-open/4
 url_code: https://github.com/husmen/DoCA_GUI
 url_pdf: ""
