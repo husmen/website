@@ -1,10 +1,11 @@
 ---
-title: "A parallel implementation of Artificial Algae Algorithm for numerical optimization"
+title: "Efficient Implementation of Artificial Algae Algorithm on CUDA-supported GPUs"
 authors:
 - 'Süleyman Eken'
 - admin
 - 'Ramazan Nejdet Sarıkaya'
-date: "2020-02-20T00:00:00Z"
+- 'Ahmet Sayar'
+date: "2020-02-22T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,7 +24,7 @@ publication: In *-*
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: A parallel implementation of Artificial Algae Algorithm for numerical optimization.
+summary: Efficient Implementation of Artificial Algae Algorithm on CUDA-supported GPUs.
 
 tags:
 - CUDA
@@ -77,4 +78,4 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
  -->
 
-Regardless of industry, the overload of information facing most organizations today is a drain on both individuals and the enterprise itself. The increasing volume of this information, which is stored in different electronic formats, requires new sophisticated systems to analyse and classify them. In this paper, we attempt to implement a framework for Document Classification and Analysis (DoCA) that can simplify and automate such tasks for different file types, namely: office documents (text, spreadsheets, and presentations), scanned documents (images and PDFs), multimedia files (video and audio). Each file type requires different methods for pre-processing, analysis, and classification. The efficiency and feasibility of the DoCA are examined on HAVELSAN dataset and accuracy of different tasks shows that the DoCA is a promising tool for document analysis and classification.
+ COMING SOON.
