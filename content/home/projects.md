@@ -38,8 +38,12 @@ subtitle = ""
     tag = "Qt"
 
   [[content.filter_button]]
-    name = "Cuda"
-    tag = "Cuda"
+    name = "ROS"
+    tag = "ROS"
+
+  [[content.filter_button]]
+    name = "CUDA"
+    tag = "CUDA"
   
   [[content.filter_button]]
     name = "NLP"
@@ -47,7 +51,7 @@ subtitle = ""
 
   [[content.filter_button]]
     name = "ML"
-    tag = "ML"
+    tag = "Machine Learning"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

@@ -4,9 +4,7 @@ summary: Python and Cuda C++ implementation of Artificial Algae Algorithm.
 tags:
 - Python
 - Cpp
-- Cuda
-- Full-text Search
-- Backend
+- CUDA
 date: "2020-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

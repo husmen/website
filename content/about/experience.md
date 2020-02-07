@@ -30,6 +30,19 @@ date_format = "Jan 2006"
   * Image Classification and Analysis.
   """
 
+[[experience]]
+  title = "Project Manager"
+  company = "Inelectronics Student Club (IGEE ex-INELEC)"
+  company_url = "https://www.facebook.com/InelectronicsStudentClub/"
+  location = "Boumerdes, Algeria"
+  date_start = "2013-01-01"
+  date_end = "2014-06-30"
+  description = """A Students' Club working on improving the use of English as a language of instruction, bringing together university and industry, and show students new horizons and new approaches towards the World. While in the club I:
+
+  * Designed and managed a WordPress website for the club’s activities and news. 
+  * Organized successful events with student project presentations and speakers from companies like Microsoft and Schlumberger. 
+  """
+
 # [[experience]]
 #  title = "Professor"
 #  company = "University X"

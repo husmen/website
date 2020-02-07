@@ -13,6 +13,7 @@ tags:
 - Document Clustering
 - Audio Analysis
 - Video Analysis
+- Machine Learning
 date: "2018-08-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
