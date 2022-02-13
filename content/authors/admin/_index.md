@@ -10,26 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Computer Engineering Student
+role: Computer Vision Engineer at [Visiomex](http://visiomex.com/)
 
 # Organizations/Affiliations
 organizations:
+- name: Visiomex
+  url: http://visiomex.com/
+- name: VisYildiz Technical Universityiomex
+  url: http://yildiz.edu.tr/
 - name: Kocaeli University
   url: http://kocaeli.edu.tr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Software Engineer with a passion for AI.
+bio: Software Engineer with a passion for CV/ML.
 
 interests:
+- Computer Vision
 - Artificial Intelligence
 - Autonomous Driving
 - Stream Processing
-- Spatio-Temporal Streams
 
 education:
   courses:
-  - course: BEng in Computer engineering
-    institution: Kocaeli Unviersity
+  - course: MSc in Computer Engineering
+    institution: Yildiz Technical University
+    year: 2024
+  - course: BEng in Computer Engineering
+    institution: Kocaeli University
     year: 2020
 
 # Social/Academic Networking
@@ -68,7 +75,7 @@ email: ""
 #- Visitors
 ---
 
-I am Houssem Menhour, currently studying Computer Engineering at Kocaeli University with a focus on Data Science and Machine Learning. I program mostly in C++ and Python, but recently started picking interest in Go and Scala as well.
+I am Houssem Menhour, a Computer Vision Engineer at Visiomex where I build industrial quality control and automation systems. Before that I have worked on a variety of topics while pursuing my Computer Engineering degree at Kocaeli University, including Autonomous Vehicles, Distributed Systems, Stream Processing and Big Data Analytics. I program mostly in C++, C# and Python, but recently started picking interest in Go and Rust as well.
 
 This is a space where I share some random thoughts, and write about interesting projects and topics in my field.
 

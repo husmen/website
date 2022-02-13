@@ -18,12 +18,26 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Computer Vision Engineer"
+  company = "Visiomex"
+  company_url = "https://visiomex.com"
+  location = "Pendik, Istanbul, Turkey"
+  date_start = "2020-07-07"
+  date_end = ""
+  description = """Tech stack: C#, .NET, Python, OpenCV, MVTec Halcon, TensorFlow 
+  
+  I develop Computer Vision based quality control solutions for the automotive, home appliances and textile industries, and deploy them in the form of modern desktop applications. These solutions offer both 2D and 3D inspections. 
+
+  In line with the Start-up nature of our company, I occasionally get to work on other interesting problems such as DevOps and enriching our products with tools for data aggregation and   analytics.
+  """
+  
+[[experience]]
   title = "Research Intern"
   company = "Kocaeli University"
   company_url = "https://kocaeli.edu.tr"
   location = "Izmit, Kocaeli, Turkey"
   date_start = "2018-06-01"
-  date_end = ""
+  date_end = "2018-08-31"
   description = """As an intern at the Image Processing Laboratory, I helped with and contributed to ongoing research on the following subjects:
   
   * Computer Vision for Autonomous Driving Vehicles.
