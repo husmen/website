@@ -63,7 +63,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/CV_2020.pdf
+  link: files/CV_2022_Public.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -75,7 +75,7 @@ email: ""
 #- Visitors
 ---
 
-I am Houssem Menhour, a Computer Vision Engineer at Visiomex where I build industrial quality control and automation systems. Before that I have worked on a variety of topics while pursuing my Computer Engineering degree at Kocaeli University, including Autonomous Vehicles, Distributed Systems, Stream Processing and Big Data Analytics. I program mostly in C++, C# and Python, but recently started picking interest in Go and Rust as well.
+I am Houssem Menhour, currently doing a MSc in Computer Science & Engineering at the University of Oulu, with a focus on AI. and I would love to combine that with a new professional challenge in a CV/ML related role. Prior to that, I worked for 2+ years as a Computer Vision Engineer at Visiomex where I built industrial quality control and automation systems. During my bachelor's degree at Kocaeli University, I worked on various topics including Autonomous Vehicles, Distributed Systems, Stream Processing and Big Data Analytics. I program mostly in C++, C# and Python, but recently started picking interest in Go and Rust as well.
 
 This is a space where I share some random thoughts, and write about interesting projects and topics in my field.
 

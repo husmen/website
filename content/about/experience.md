@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://visiomex.com"
   location = "Pendik, Istanbul, Turkey"
   date_start = "2020-07-07"
-  date_end = ""
+  date_end = "2022-08-12"
   description = """Tech stack: C#, .NET, Python, OpenCV, MVTec Halcon, TensorFlow 
   
   I develop Computer Vision based quality control solutions for the automotive, home appliances and textile industries, and deploy them in the form of modern desktop applications. These solutions offer both 2D and 3D inspections. 
