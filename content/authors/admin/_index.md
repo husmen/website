@@ -32,8 +32,8 @@ interests:
 
 education:
   courses:
-  - course: MSc in Computer Engineering
-    institution: Yildiz Technical University
+  - course: MSc in Computer Science & Engineering
+    institution: University of Oulu
     year: 2024
   - course: BEng in Computer Engineering
     institution: Kocaeli University
