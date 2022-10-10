@@ -1,5 +1,0 @@
-baseURL = "https://husmen.xyz/"
-languageCode = "en-us"
-title = "HUSMEN"
-theme = "academic"
-publishdir = "husmen.github.io"
