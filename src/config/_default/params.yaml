@@ -18,10 +18,10 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'HUSMEN | I am Houssem Menhour, and this is my website!'
+    twitter: 'husmen93'
   analytics:
-    google_analytics: ''
+    google_analytics: 'UA-40793511-6'
     baidu_tongji: ''
   verification:
     google: ''
@@ -43,9 +43,9 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Houssem Menhour' #'© {year} Me. This work is licensed under {license}'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -68,8 +68,8 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
-    content_dir: content
+    url: 'https://github.com/husmen/website'
+    content_dir: src/content
     branch: main
   avatar:
     gravatar: false
