@@ -1,97 +1,58 @@
-+++
-# A Projects section created with the Portfolio widget.
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+---
+# An instance of the Portfolio widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: portfolio
 
-title = "Projects"
-subtitle = ""
+# This file represents a page section.
+headless: true
 
-[content]
+# Order that this section appears on the page.
+weight: 40
+
+title: Projects
+subtitle: ''
+
+content:
   # Page type to display. E.g. project.
-  page_type = "portfolio"
-  
+  page_type: portfolio
+
+  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+  filter_default: 0
+
   # Filter toolbar (optional).
-  # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
+  # Add or remove as many filters (`filter_button` instances) as you like.
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
-  # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
-  
-  # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
-  
-  [[content.filter_button]]
-    name = "All"
-    tag = "*"
-  
-  [[content.filter_button]]
-    name = "Python"
-    tag = "Python"
-  
-  [[content.filter_button]]
-    name = "C++"
-    tag = "Cpp"
+  # To remove the toolbar, delete the entire `filter_button` block.
+  filter_button:
+    - name: All
+      tag: '*'
+    - name: Python
+      tag: Python
+    - name: C++
+      tag: Cpp
+    - name: Qt
+      tag: Qt
+    - name: ROS
+      tag: ROS
+    - name: CUDA
+      tag: CUDA
+    - name: NLP
+      tag: NLP
+    - name: ML
+      tag: Machine Learning
 
-  [[content.filter_button]]
-    name = "Qt"
-    tag = "Qt"
-
-  [[content.filter_button]]
-    name = "ROS"
-    tag = "ROS"
-
-  [[content.filter_button]]
-    name = "CUDA"
-    tag = "CUDA"
-  
-  [[content.filter_button]]
-    name = "NLP"
-    tag = "NLP"
-
-  [[content.filter_button]]
-    name = "ML"
-    tag = "Machine Learning"
-
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+design:
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '1'
 
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view: 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = true
-
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-  
-  # Background color.
-  # color = "navy"
-  
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-  
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-
-  # Text color (true=light or false=dark).
-  # text_color_light = true  
-  
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
-+++
-
+  flip_alt_rows: true
+---

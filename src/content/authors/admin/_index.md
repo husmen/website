@@ -16,12 +16,10 @@ role: Computer Vision Engineer at [Visiomex](http://visiomex.com/)
 organizations:
 - name: University of Oulu
   url: http://oulu.fi/
-- name: Visiomex
-  url: http://visiomex.com/
-- name: Yildiz Technical University
-  url: http://yildiz.edu.tr/
-- name: Kocaeli University
-  url: http://kocaeli.edu.tr/
+# - name: Yildiz Technical University
+#   url: http://yildiz.edu.tr/
+# - name: Kocaeli University
+#   url: http://kocaeli.edu.tr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Software Engineer with a passion for CV/ML.
@@ -81,4 +79,4 @@ I am Houssem Menhour, currently doing a MSc in Computer Science & Engineering at
 
 This is a space where I share some random thoughts, and write about interesting projects and topics in my field.
 
-More information [here](/about/#experience).
+[More information here](/about/#experience).
