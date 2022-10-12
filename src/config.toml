@@ -1,7 +1,7 @@
 baseURL = 'https://husmen.xyz/'
 languageCode = 'en-us'
 title = 'HUSMEN'
-theme = 'academic'
+# theme = 'academic'
 publishdir = 'husmen.github.io'
 ignoreErrors = ["error-remote-getcsv"]
 
