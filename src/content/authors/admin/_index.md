@@ -1,15 +1,15 @@
 ---
 # Display name
-name: Houssem Menhour
+title: Houssem Menhour
 
-# Username (this should match the folder name)
-authors:
-- admin
+# Full name (for SEO)
+first_name: Houssem
+last_name: Menhour
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
+# Role/position/tagline
 role: Software Engineer (Computer Vision)
 
 # Organizations/Affiliations
@@ -68,11 +68,8 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#- Researchers
-#- Visitors
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 
 I am Houssem Menhour, currently doing a MSc in Computer Science & Engineering at the University of Oulu, with a focus on AI. Prior to that, I worked for 2+ years as a Computer Vision Engineer at [Visiomex](https://visiomex.com/) where I built industrial quality control and automation systems.
