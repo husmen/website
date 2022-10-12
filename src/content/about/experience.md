@@ -30,11 +30,14 @@ experience:
     date_start: '2020-07-07'
     date_end: '2022-08-12'
     description: |2-
-        Tech stack: C#, .NET, Python, OpenCV, MVTec Halcon, TensorFlow 
+        **Tech stack**: C#/.NET, Python, OpenCV, MVTec Halcon, TensorFlow, PyTorch, Docker
 
-        I develop Computer Vision based quality control solutions for the automotive, home appliances and textile industries, and deploy them in the form of modern desktop applications. These solutions offer both 2D and 3D inspections. 
-
-        In line with the Start-up nature of our company, I occasionally get to work on other interesting problems such as DevOps and enriching our products with tools for data aggregation and   analytics.
+        Responsibilities:
+        * Designed, developed and deployed Computer Vision based quality control solutions for the automotive, home appliances and textile industries.
+        * Lead the R&D efforts for the company’s first 3D inspection solution using laser profiling technique and a robotic arm achieving a scanning resolution of <100µm. 
+        * Developed our first deep learning solution for anomaly detection (CAE, PaDiM), and deployed it for defect detection in steel sheets.
+        * Developed internal tools for logging, data aggregation and analytics.
+        * Optimized and modernized the company's old code base and helped with DevOps integration.
 
   - title: Research Intern
     company: Kocaeli University
@@ -42,12 +45,15 @@ experience:
     company_logo: ''
     location: Kocaeli, Turkey
     date_start: '2018-06-01'
-    date_end: '2018-08-31'
+    date_end: '2018-12-31'
     description: |2-
-        As an intern at the Image Processing Laboratory, I helped with and contributed to ongoing research on the following subjects:
+        **Tech Stack**: C/C++, Python, PyData stack, OpenCV, TensorFlow, ROS
+
+        As an intern at the Image Processing Laboratory, I helped with and contributed to ongoing research on:
   
         * Computer Vision for Autonomous Driving Vehicles.
         * Image Classification and Analysis.
+        * NLP.
 
   - title: Project Manager
     company: Inelectronics Student Club (IGEE ex-INELEC)

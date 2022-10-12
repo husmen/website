@@ -10,16 +10,16 @@ authors:
 superuser: true
 
 # Role/position
-role: Computer Vision Engineer at [Visiomex](http://visiomex.com/)
+role: Software Engineer (Computer Vision)
 
 # Organizations/Affiliations
 organizations:
 - name: University of Oulu
-  url: http://oulu.fi/
+  url: https://oulu.fi/
 # - name: Yildiz Technical University
-#   url: http://yildiz.edu.tr/
+#   url: https://yildiz.edu.tr/
 # - name: Kocaeli University
-#   url: http://kocaeli.edu.tr/
+#   url: https://kocaeli.edu.tr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Software Engineer with a passion for CV/ML.
@@ -75,8 +75,10 @@ email: ""
 #- Visitors
 ---
 
-I am Houssem Menhour, currently doing a MSc in Computer Science & Engineering at the University of Oulu, with a focus on AI. and I would love to combine that with a new professional challenge in a CV/ML related role. Prior to that, I worked for 2+ years as a Computer Vision Engineer at Visiomex where I built industrial quality control and automation systems. During my bachelor's degree at Kocaeli University, I worked on various topics including Autonomous Vehicles, Distributed Systems, Stream Processing and Big Data Analytics. I program mostly in C++, C# and Python, but recently started picking interest in Go and Rust as well.
+I am Houssem Menhour, currently doing a MSc in Computer Science & Engineering at the University of Oulu, with a focus on AI. Prior to that, I worked for 2+ years as a Computer Vision Engineer at [Visiomex](https://visiomex.com/) where I built industrial quality control and automation systems.
 
-This is a space where I share some random thoughts, and write about interesting projects and topics in my field.
+I program mostly in C++, C# and Python. And I would love to combine my studies with a new professional challenge in a CV/ML related role.  
+
+This is a space where I (plan to) write about interesting projects, topics and random thoughts.
 
 [More information here](/about/#experience).

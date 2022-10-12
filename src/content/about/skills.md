@@ -35,6 +35,10 @@ feature:
   - description: ''
     icon: ''
     icon_pack: fas
+    name: PyData Stack
+  - description: ''
+    icon: ''
+    icon_pack: fas
     name: MVTech Halcon
   - description: ''
     icon: ''
@@ -51,8 +55,12 @@ feature:
   - description: ''
     icon: ''
     icon_pack: fas
-    name: ELK
-  
+    name: ROS
+  - description: ''
+    icon: ''
+    icon_pack: fas
+    name: Docker
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
@@ -68,3 +76,7 @@ feature:
 #  name: "Surfing"
 #  description: "90%"
 ---
+
+{{% callout note %}}
+Or you can check my [full resumé here](../files/CV_2022_Public.pdf).
+{{% /callout %}}

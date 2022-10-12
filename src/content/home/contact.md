@@ -51,14 +51,6 @@ content:
       icon_pack: fab
       name: Connect with me
       link: https://linkedin.com/in/husmen
-    - icon: github
-      icon_pack: fab
-      name: Check my code
-      link: https://github.com/husmen
-  #   - icon: video
-  #     icon_pack: fas
-  #     name: Zoom Me
-  #     link: 'https://zoom.com'
 
 design:
   columns: '2'
