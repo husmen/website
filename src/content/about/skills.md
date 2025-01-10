@@ -78,5 +78,5 @@ feature:
 ---
 
 {{% callout note %}}
-Or you can check my [full resumé here](../files/CV_2022_Public.pdf).
+Or you can check my [full resumé here](../files/cv.pdf).
 {{% /callout %}}
